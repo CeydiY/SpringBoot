@@ -1,0 +1,15 @@
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Beer - Sleeman Fine Porter', 89.75);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Yogurt - Banana, 175 Gr', 77.88);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Flour - Semolina', 78.37);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Spoon - Soup, Plastic', 12.34);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Chips Potato Salt Vinegar 43g', 61.7);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Cake - Cake Sheet Macaroon', 4.93);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Lamb Tenderloin Nz Fr', 42.63);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Bacardi Breezer - Tropical', 25.19);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Carbonated Water - Wildberry', 60.05);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Appetizer - Mango Chevre', 1.39);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Appetizer - Mango Chevre', 18.85);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Sobe - Green Tea', 70.2);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Tarragon - Fresh', 64.22);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Snapple - Mango Maddness', 14.26);
+insert into product (id, name, price) values (NEXTVAL('hibernate_sequence'), 'Milk - Buttermilk', 5.46);
